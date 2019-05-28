@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "GodFather"
-subtitle: 'I told you i can handle it,i'll handle it'
-author: "fantasy"
+subtitle: 'i told you i can handle it'
+author: "Fantasy"
 header-style: text
 tags:
   - 电影
 ---
 
-看教父这段很有感悟，截了几张图。
+看教父这段很有感觉，截了几张图。
 
 ---
 
@@ -25,3 +25,4 @@ tags:
 ![Alt text](https://i.loli.net/2018/07/28/5b5b518c5527e.jpeg "and i refused to be a fool...")
 
 ![Alt text](https://i.loli.net/2018/07/28/5b5b51aa18617.jpeg "ha")
+
