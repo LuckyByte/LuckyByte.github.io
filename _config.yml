@@ -1,10 +1,10 @@
 # Site settings
-title: Fantasy's Blog
-SEOTitle: 李博 Blog | Fantasy’s Blog
+title: Fantasy Blog
+SEOTitle: 李博 博客 | Fantasy Blog
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
 description: "平时工作和学习的一些经验和感想"
-keyword: "Fantasy's Blog"
+keyword: "Fantasy Blog"
 url: "https://www.lifantasy.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -78,8 +78,8 @@ ga_domain: lifantasy.com
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Yesterday you said tomorrow."
+sidebar-avatar: /img/avatar-fantasy.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -103,37 +103,8 @@ page-mathjax: false
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
-        title: "乱序",
-        href: "http://mida.re/"
-    },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
-    },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
-    },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
+    {
         title: "Ebn's Blog",
         href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
     }
 ]
