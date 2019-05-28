@@ -1,10 +1,10 @@
 # Site settings
-title: Fantasy Blog
-SEOTitle: 李博 博客 | Fantasy Blog
+title: Fantasy‘s Blog
+SEOTitle: 李博 博客 | Fantasy's Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: luckybyte@163.com
 description: "平时工作和学习的一些经验和感想"
-keyword: "Fantasy Blog"
+keyword: "Fantasy's Blog"
 url: "https://www.lifantasy.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: Fantasy
 
 # Netease settings
 netease_comment: false
