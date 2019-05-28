@@ -103,7 +103,6 @@ page-mathjax: false
 # Friends
 friends: [
     {
-    {
         title: "Ebn's Blog",
         href: "http://ebnbin.com/"
     }
